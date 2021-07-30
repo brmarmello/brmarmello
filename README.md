@@ -48,8 +48,3 @@
   ![Snake animation](https://github.com/brmarmello/brmarmello/blob/output/github-contribution-grid-snake.svg)
 
 </div>  
-<!--
-dist/github-contribution-grid-snake.svg
-
-https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
--->
