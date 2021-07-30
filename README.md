@@ -1,6 +1,4 @@
-🖖 Hi guys! 👋
-
-# I'm Bruno Marmello = 'BM'
+# 🖖 Hi guys! 👋 I'm Bruno Marmello = 'BM'
 
 - 👨‍💻 I'm transitioning my career to the technology area.
 - 🧠 I'm currently learning software development and data science.
