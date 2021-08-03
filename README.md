@@ -3,7 +3,7 @@
 - 👨‍💻 I'm transitioning my career to the technology area.
 - 🧠 I'm currently learning software development and data science.
 - 💸 I have been working for over 15 years with marketing and sales management.
-- 📫 I live in the city of Niterói in the state of Rio de Janeiro - Brazil.
+- 📫 I live in Niterói city - state of Rio de Janeiro - Brazil.
 - 😄 Pronouns: he/his
 
 <div>
