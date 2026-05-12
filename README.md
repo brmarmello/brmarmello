@@ -1,16 +1,10 @@
-# 🖖 Hi guys! 👋 I'm Bruno Marmello = 'BM'
+# 🖖 Hi guys! 👋 I'm Bruno Moreira = 'BM'
 
-- 👨‍💻 I'm transitioning my career to the technology area.
-- 🧠 I'm currently learning software development and data science.
-- 💸 I have been working for over 15 years with marketing and sales management.
-- 📫 I live in Niterói city - state of Rio de Janeiro - Brazil.
-- 😄 Pronouns: he/his
+- 👨‍💻 IT Manager, Information Security Specialist, and enthusiast of Artificial Intelligence and Data Science.
+- 🧠 FullStack Developer / Traditional Web and Blockchain.
+- 💸 Over 15 years of experience with excellent results in Marketing and Business Intelligence, as well as Agile Product Owner and Product Manager.
+- 📫 I live in Niterói, Rio de Janeiro, Brazil.
 
-<div>
-  <a href="https://github.com/brmarmello">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brmarmello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brmarmello&layout=compact&langs_count=7&theme=radical"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
